@@ -1,0 +1,10 @@
+{
+  "mcpServers": {
+    "antoneychuang": {
+      "serverUrl": "https://antoneychuang.fastmcp.app/mcp",
+      "headers": {
+        "Content-Type": "application/json"
+      }
+    }
+  }
+}
